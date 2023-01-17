@@ -14,13 +14,13 @@ feature_row:
     alt: "SLS Printing"
     title: "SLS Printing"
     excerpt: "Hands on experience with a research-based understanding of theory."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
+  - image_path: assets/img/Zidex-Thumbnail.jpg
     alt: "placeholder image 2"
     title: "DIY Plasma Cutter"
     excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: /assets/img/IMG_0008 (1).jpg
+    title: "FFF Printing"
+    excerpt: "Construction of a FFF printer for undergraduate use. "
 ---
 
 {% include feature_row %}
