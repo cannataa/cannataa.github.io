@@ -6,7 +6,7 @@ header:
   teaser: /assets/img/ext3.png
 gallery:
   - image_path: /assets/img/Filament_Extruder_Assembly_Copy_2022-May-02_10-45-04AM-000_CustomizedView30598827714_jpg.jpg
-  - image_path: /assets/img/ext2.png
+  - image_path: /assets/img/Filament_Extruder_Assembly_Copy_2022-May-02_10-43-50AM-000_CustomizedView20496221172_jpg.jpg
   - image_path: /assets/img/ext1.png
    
 ---
