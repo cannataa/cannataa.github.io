@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Allison Cannatti"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Allison Cannatti is a chemical engineering student passionate about design and sustainability. She has experience with additive manufacturing and plans to apply these skills to future endeavors."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
