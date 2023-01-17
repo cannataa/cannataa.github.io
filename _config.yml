@@ -13,9 +13,9 @@ minimal_mistakes_skin    : "contrast" # "default", "aqua", "contrast", "dark", "
 locale                   : "en-US"
 title                    : "Allison Cannatti"
 title_separator          : "-"
-subtitle                 : "Example Website for Class"
+subtitle                 : # "Example Website for Class"
 name                     : &name "Allison Cannatti" # &name is a YAML anchor which can be *referenced later
-description              : &description "Example website for class "
+description              : # &description "Example website for class "
 url                      : https://davidflorianjr.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
