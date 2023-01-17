@@ -28,4 +28,4 @@ In the summer of 2021 and the spring of 2022, Allison worked as a research assis
 * Development of a Python code outputting SLS printing parameters depending on inlet powder composition, based on data complied through differential scanning calorimetry (DSC).
 * Creation of standard operating procedures for various digital fabrication equipment and associated post-processing equipment.
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+<img src="/assets/img/allison_headshot.jpg" alt="Allison Cannatti" style="width:200px;"/>
