@@ -27,5 +27,3 @@ In the summer of 2021 and the spring of 2022, Allison worked as a research assis
 * Construction of a Voron 2.4 FFF 3D printer, which is now available for undergraduate use in the Digital Fabrication Lab.
 * Development of a Python code outputting SLS printing parameters depending on inlet powder composition, based on data complied through differential scanning calorimetry (DSC).
 * Creation of standard operating procedures for various digital fabrication equipment and associated post-processing equipment.
-
-<img src="/assets/img/allison_headshot.jpg" alt="Allison Cannatti" style="width:200px;"/>
