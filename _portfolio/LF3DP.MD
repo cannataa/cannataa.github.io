@@ -2,10 +2,10 @@
 title: "Extruder"
 excerpt: "A 10 kg/hr PLA extruder."
 header:
-  image: /assets/img/ext3.png
+  image: /assets/img/Filament_Extruder_Assembly_Copy_2022-May-02_10-45-04AM-000_CustomizedView30598827714_jpg.jpg
   teaser: /assets/img/ext3.png
 gallery:
-  - image_path: /assets/img/ext3.png
+  - image_path: /assets/img/Filament_Extruder_Assembly_Copy_2022-May-02_10-45-04AM-000_CustomizedView30598827714_jpg.jpg
   - image_path: /assets/img/ext2.png
   - image_path: /assets/img/ext1.png
    
@@ -15,6 +15,8 @@ gallery:
 
 * **Custom Screw** NEXTRUCAD software was utilized to design a custom screw with optimized torque and power requirements. 
 * **High Volumetric Output Extruder: 10 kg/hr.** This extruder can produce 10 kg/hr PLA filament, a large production rate of a highly demanded filament that allows for a short payback period.
+
+# Bill of Materials
 
 # CAD Model
 NOTE: I currently do not have access to the extruder CAD file; this section will be updated once access is regained.
