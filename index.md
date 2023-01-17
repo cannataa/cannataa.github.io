@@ -14,10 +14,10 @@ feature_row:
     alt: "SLS Printing"
     title: "SLS Printing"
     excerpt: "Hands on experience with a research-based understanding of theory."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
+  - image_path: /assets/img/Clinear_actuator (1).png
     alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
+    title: "Fusion 360"
+    excerpt: "Modelling equipment assemblies with CAD. "
   - image_path: /assets/img/IMG_0008 (1).jpg
     title: "FFF Printing"
     excerpt: "Construction of a FFF printer for undergraduate use. "
