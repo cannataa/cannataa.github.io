@@ -29,6 +29,6 @@ The following materials are neceassary for the construction of the extruder asse
 
 # CAD Model
 NOTE: I currently do not have access to the extruder CAD file; this section will be updated once access is regained.
-<iframe src="https://vanderbilt128.autodesk360.com/shares/public/SH35dfcQT936092f0e433af5efd608f7204a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt128.autodesk360.com/shares/public/SH35dfcQT936092f0e433af5efd608f7204a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>"
 
 {% include gallery caption="Large Format 3D Printer Gallery" %}
