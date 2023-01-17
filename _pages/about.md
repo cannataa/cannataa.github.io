@@ -1,31 +1,27 @@
 ---
 
-title: "About David Florian"
+title: "About Allison Cannatti"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Allison will graduate from Vanderbilt University in the spring of 2023 with a Bachelor of Engineering degree in Chemical and Biomolecular Engineering. She also spent one semester of her undergraduate career at the University of Edinburgh in Scotland, where she continued her studies in chemical engineering.
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
-* Vanderbilt University
-  * PhD Biomedical Engineering
+After graduation, Allison will design gas flares (a combustion device used to safely manage emissions) at John Zink LLC in Tulsa, OK and assist in managing the company's additive manufacturing facilities. 
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Allison prides herself on her knowledge digital fabrication. She has experience with the following technologies:
 
 * Fused Filament Fabrication (FFF)
+  * Allison has built a Voron 2.4 FFF printer, which is currently available for undergraduate use in the Vanderbilt Digital Fabrication Lab.
 * Stereolithography (SLA)
 * Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* Laser Cutting
 
-## Press 
-
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+Allison is proficient in CAD, specifically Fusion 360, as well as MATLAB and Python.
 
 <img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+
+## Work Experience
