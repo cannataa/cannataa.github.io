@@ -5,12 +5,11 @@ header:
   image: /assets/img/Filament_Extruder_Assembly_Copy_2022-May-02_10-45-04AM-000_CustomizedView30598827714_jpg.jpg
   teaser: /assets/img/ext3.png
 gallery:
-  - image_path: /assets/img/Filament_Extruder_Assembly_Copy_2022-May-02_10-45-04AM-000_CustomizedView30598827714_jpg.jpg
-  - image_path: /assets/img/Filament_Extruder_Assembly_Copy_2022-May-02_10-43-50AM-000_CustomizedView20496221172_jpg.jpg
-  - image_path: /assets/img/Filament_Extruder_Assembly_Copy_2022-May-02_10-46-32AM-000_CustomizedView25070023270_jpg.jpg
+  - image_path: /assets/img/Screenshot (174).png
+  - image_path: /assets/img/Screenshot (175).png
 
 ---
-
+# About
 Print-in-place parts are an exciting application of 3D printing. Instead of printing multiple parts that must be assembled in order to be functional, print-in-place parts are fully functional as soon as they are removed from the bed; no post-processing or assembly is required. More complex print-in-place parts are possible with dual extrusion printing. Portions of the printed part can have different properties, depending on the filament used. For example, flexible filaments such as TPU can be used for the joints of a part, while other filaments such as PLA or ABS can be used to form rigid components. Because of the layer-by-layer construction of 3D printed parts, different filaments can be printed such that each part component is attached to the other once the print is complete.
 
 These principles were applied to design a set of needle-nose pliers that are capable of picking up, moving, and releasing items of >3 mm diameter. The handles and jaws were printed from PLA, and the flexible hinge was printed from TPU, with TPU joints embedded into the PLA portions to attach the components of the print. Instead of the traditional pliers mechanism, I chose to design pliers that were closed in the relaxed position (there is a 1.5 mm gap between the relaxed jaws in the final design). Applying pressure to the handles causes the jaws to open, and relieving pressure allows the jaws to close down on the object of interest. Further pressure can be applied to the object of interest by pulling the handles outward if desired. 
@@ -20,12 +19,13 @@ The TPU hinge is circular in design, with the segment between the handles cut ou
 ![Original Design] (cannataa.github.io/assets/img/Screenshot (174).png "Original Design")
 ![Final Design] (cannataa.github.io/assets/img/Screenshot (175).png "Final Design")
 
-## Design
-Initial Design
+# Design
+## Initial Design
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e439dab8299d2a1310f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-Final Design
+## Final Design
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43b07d1aae18632c20?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+# Printing Parameters
 
 {% include gallery caption="Large Format 3D Printer Gallery" %}
