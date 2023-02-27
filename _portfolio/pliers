@@ -10,7 +10,8 @@ gallery:
   - image_path: /assets/img/Filament_Extruder_Assembly_Copy_2022-May-02_10-46-32AM-000_CustomizedView25070023270_jpg.jpg
    
 ---
-
+# About
+Print-in-place parts are an exciting application of 3D printing
 # Design
 
 * **Custom Screw** NEXTRUCAD software was utilized to design a custom screw with optimized torque and power requirements. 
@@ -28,7 +29,7 @@ The following materials are neceassary for the construction of the extruder asse
 * **7010K145, Power Supply** (1) $521.40
 
 # CAD Model
-NOTE: I currently do not have access to the extruder CAD file; this section will be updated once access is regained.
-<iframe src="https://vanderbilt128.autodesk360.com/shares/public/SH35dfcQT936092f0e433af5efd608f7204a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>"
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43b07d1aae18632c20?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 
 {% include gallery caption="Large Format 3D Printer Gallery" %}
