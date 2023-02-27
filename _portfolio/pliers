@@ -8,27 +8,13 @@ gallery:
   - image_path: /assets/img/Filament_Extruder_Assembly_Copy_2022-May-02_10-45-04AM-000_CustomizedView30598827714_jpg.jpg
   - image_path: /assets/img/Filament_Extruder_Assembly_Copy_2022-May-02_10-43-50AM-000_CustomizedView20496221172_jpg.jpg
   - image_path: /assets/img/Filament_Extruder_Assembly_Copy_2022-May-02_10-46-32AM-000_CustomizedView25070023270_jpg.jpg
-   
+
 ---
+
 # About
-Print-in-place parts are an exciting application of 3D printing
+Print-in-place parts are an exciting application of 3D printing. Instead of printing multiple parts that must be assembled in order to be functional, print-in-place parts are fully functional as soon as they are removed from the bed; no post-processing or assembly is required. More complex print-in-place parts are possible with dual extrusion printing. Portions of the printed part can have different properties, depending on the filament used. For example, flexible filament such as TPU can be used for the joints of a part, while a rigid filament such as PLA or ABS can be used to form the rigid components. 
+
 # Design
-
-* **Custom Screw** NEXTRUCAD software was utilized to design a custom screw with optimized torque and power requirements. 
-* **High Volumetric Output Extruder: 10 kg/hr.** This extruder can produce 10 kg/hr PLA filament, a large production rate of a highly demanded filament that allows for a short payback period.
-
-# Bill of Materials
-
-The following materials are neceassary for the construction of the extruder assembly, listed here at McMaster Carr prices:
-* **K771K22, Gearbox** (1) $686.46
-* **6135K209, Motor** (1) $968.40
-* **3641K26, Heating Coil** (3) $71.49 each
-* **7700N13, Cooling Fans** (4) $41.82 each
-* **9251T76, Temperature Probe** (3) $43.52 each
-* **38615K71, PID Controllers** (3) $188.04 each
-* **7010K145, Power Supply** (1) $521.40
-
-# CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43b07d1aae18632c20?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
