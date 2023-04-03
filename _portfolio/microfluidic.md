@@ -2,13 +2,11 @@
 title: "SLA Microfludic Device"
 excerpt: "Resin-printed pinched flow fractionation mold."
 header:
-  image: /assets/img/Screenshot (175).png/assets/img/pliers render.jpg
-  teaser: /assets/img/IMG_5819.jpg
+  image: /assets/img/mfdinitial.jpeg
+  teaser: /assets/img/mfdinitial.jpeg
 gallery:
-  - image_path: /assets/img/Screenshot (174).png
-  - image_path: /assets/img/Screenshot (175).png
-  - image_path: /assets/img/IMG_5819.jpg
-  - image_path: /assets/img/pliers render.jpg
+  - image_path: /assets/img/mfdfinal.jpeg
+  - image_path: /assets/img/mfdinitial.jpeg
 
 ---
 # About
@@ -16,13 +14,13 @@ gallery:
 
 
 # Design
-The jaws are 1.5 mm apart at resting, can open to a maximum of _ mm, and can close such that the jaws are touching. The jaws are 25 mm in length.
+
 
 ## Initial Design
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e439dab8299d2a1310f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e1db99992810ef92e?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Final Design
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43b07d1aae18632c20?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e1db99992810ef92e?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Printing Parameters
 Both the PLA and TPU filament are printed on a bed heated to 60 C. The majority of the print settings remain the same. Here are the differences in printing parameters between PLA and TPU:
