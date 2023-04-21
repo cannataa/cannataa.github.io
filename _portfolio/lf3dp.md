@@ -2,7 +2,7 @@
 title: "LF3DP Generative Design"
 excerpt: "A tiered podium created with generative design methods for large format 3D printing."
 header:
-  image: /assets/img/gdp9.jpg
+  image: /assets/img/gdp9.png
   teaser: /assets/img/gdp5.png
   
 gallery:
@@ -33,10 +33,12 @@ Despite setting the maximum overhang angle to 45 degrees, the form created by th
 ## FFF Scaled Down Model
 The podium model was scaled down to 7% of its proportions and printed from PLA on the MakerGear M3 FFF printer. At this scale, there was negligible stringing or other print issues involving overhangs. Images of the scaled-down print can be seen in the gallery below.
 
-  - image_path: /assets/img/gdp6.2.jpg
-  - image_path: /assets/img/gdp7.2.jpg
-  - image_path: /assets/img/gdp8.2.jpg
+## Applications of Large Format 3DP and Generative Design: Planetary Surface Construction
+In recent years, additive manufacturing has become an increasingly popular method for large scale construction. 3D printed houses have been popping up in various locations across the country, boasting unique visual designs along with increased sustainability and affordability. Companies such as SQ4D in New York and ICON in Texas have been established to cater to a growing demand for such projects. Earlier this year, the first ever two story 3D printed house was completed in Houston, and there are plans in Dubai to open a 3D printed mosque by 2025. 
 
-## Applications of Large Format 3DP and Generative Design
+As this large scale 3D printing technology has developed on Earth, adapting this technology for outer space applications has grown in consideration in the past two decades. Beginning in the mid 2000s, the In SItu Fabrication and Repair (ISFR) project was developed at NASA’s George C. Marshall Space Flight Center (MSFC) to analyze the possibility of using naturally occurring lunar materials and other recycled goods (discarded machinery parts, garbage, human waste, etc.) in lunar construction projects. Dozens of research projects were developed as a part of this initiative, beginning the investigation into the fabrication of 2D and 3D structures. There is potential to create a wide variety of lunar infrastructure, including landing pads, pathways, foundational bases, shelters, equipment housing, and human habitats.
+
+Development of such projects remained largely at the theoretical stage for the next decade or so. The most significant development began in 2014, when a team at NASA (Mueller, et al) began the Additive Construction with Mobile Emplacement (ACME) project. The goal of the project was to investigate the feasibility of the construction of additively manufactured human habitats, equipment shelters, and other infrastructure on either the Moon or Mars from resources found largely on site. Such a process would offer several benefits, including a significantly reduced cargo load on manned missions or supply runs (as construction materials would be obtained from the planetary surface), reduced raw material costing, reduced environmental impact to Earth, and simplification of mission logistics.
+
 
 {% include gallery caption="Large Format 3DP Gallery" %}
