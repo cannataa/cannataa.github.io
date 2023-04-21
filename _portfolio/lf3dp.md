@@ -2,7 +2,7 @@
 title: "LF3DP Generative Design"
 excerpt: "A tiered podium created with generative design methods for large format 3D printing."
 header:
-  image: /gdp5.png
+  image: /assets/img/gdp9.png
   teaser: /assets/img/gdp5.png
   
 gallery:
@@ -12,9 +12,9 @@ gallery:
   - image_path: /assets/img/gdp3.png
   - image_path: /assets/img/gdp4.png
   - image_path: /assets/img/gdp5.png
-  - image_path: /assets/img/gdp6.png
-  - image_path: /assets/img/gdp7.png
-  - image_path: /assets/img/gdp8.png
+  - image_path: /assets/img/gdp6.2.png
+  - image_path: /assets/img/gdp7.2.png
+  - image_path: /assets/img/gdp8.2.png
 
 ---
 ## Design
