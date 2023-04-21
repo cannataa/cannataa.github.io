@@ -46,5 +46,7 @@ The addition of generative design to large format planetary surface construction
 
 Future innovation in large format planetary surface construction, but will likely be slow going. There is a significant time delay (years) associated with the construction of outer space vehicles and semi-lengthy travel times. Additionally, the costs associated with supply runs or other trips outside Earth’s atmosphere are staggering. A deeper understanding of the material properties of lunar and Martian rock is also essential for modeling and design purposes. However, the successful modeling of the proposed process on Earth is encouraging, as is the support demonstrated by NASA over the last several decades. As 3D printed buildings become increasingly more common, additively manufactured structures will continue to be developed for applications in outer space, especially as the Artemis 2 and Artemis manned lunar missions are planned for 2024 and 2025, respectively. Applying generative design and large format 3D printing to planetary surface construction represents the opportunity for optimized economics, environmental impact, safety, and material loads, and I am confident that its impact will continue to grow in the decades to come.
 
+## Bibliography
+1. Mueller, Robert & Fikes, John & Case, Michael & Khoshnevis, B & Fiske, Michael & Edmunson, J. & Kelso, R & Romo, Rodrigo & Andersen, Christian. (2017). Additive Construction with Mobile Emplacement (ACME). 
 
 {% include gallery caption="Large Format 3DP Gallery" %}
