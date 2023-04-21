@@ -32,9 +32,7 @@ Despite setting the maximum overhang angle to 45 degrees, the form created by th
 
 ## FFF Scaled Down Model
 The podium model was scaled down to 7% of its proportions and printed from PLA on the MakerGear M3 FFF printer. At this scale, there was negligible stringing or other print issues involving overhangs. Images of the scaled-down print can be seen in the gallery below.
-  - image_path: /assets/img/gdp6.png
-  - image_path: /assets/img/gdp7.png
-  - image_path: /assets/img/gdp8.png
 
+## Applications of Large Format 3DP and Generative Design
 
 {% include gallery caption="Large Format 3DP Gallery" %}
