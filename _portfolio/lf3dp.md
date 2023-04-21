@@ -2,13 +2,16 @@
 title: "LF3DP Generative Design"
 excerpt: "A tiered podium created with generative design methods for large format 3D printing."
 header:
-  image: /assets/img/Screenshot (175).png/assets/img/pliers render.jpg
-  teaser: /assets/img/IMG_5819.jpg
+  image: /assets/img/gdp5.png
+  teaser: /assets/img/gdp5.png
+
 gallery:
   - image_path: /assets/img/gdp1.png
   - image_path: /assets/img/gdp2.png
   - image_path: /assets/img/gdp2.5.png
   - image_path: /assets/img/gdp3.png
+  - image_path: /assets/img/gdp4.png
+  - image_path: /assets/img/gdp5.png
 
 ---
 ## Design
@@ -25,5 +28,9 @@ Despite setting the maximum overhang angle to 45 degrees, the form created by th
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e8ce9c0807e5103eb?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## FFF Scaled Down Model
+  - image_path: /assets/img/gdp6.png
+  - image_path: /assets/img/gdp7.png
+  - image_path: /assets/img/gdp8.png
+
 
 {% include gallery caption="Large Format 3DP Gallery" %}
