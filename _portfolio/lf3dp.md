@@ -2,13 +2,13 @@
 title: "LF3DP Generative Design"
 excerpt: "A tiered podium created with generative design methods for large format 3D printing."
 header:
-  image: /assets/img/gdp9.png
+  image: /assets/img/gdp9.jpg
   teaser: /assets/img/gdp5.png
   
 gallery:
-  - image_path: /assets/img/gdp6.2.png
-  - image_path: /assets/img/gdp7.2.png
-  - image_path: /assets/img/gdp8.2.png
+  - image_path: /assets/img/gdp6.2.jpg
+  - image_path: /assets/img/gdp7.2.jpg
+  - image_path: /assets/img/gdp8.2.jpg
   - image_path: /assets/img/gdp1.png
   - image_path: /assets/img/gdp2.png
   - image_path: /assets/img/gdp2.5.png
@@ -33,9 +33,9 @@ Despite setting the maximum overhang angle to 45 degrees, the form created by th
 ## FFF Scaled Down Model
 The podium model was scaled down to 7% of its proportions and printed from PLA on the MakerGear M3 FFF printer. At this scale, there was negligible stringing or other print issues involving overhangs. Images of the scaled-down print can be seen in the gallery below.
 
-  - image_path: /assets/img/gdp6.2.png
-  - image_path: /assets/img/gdp7.2.png
-  - image_path: /assets/img/gdp8.2.png
+  - image_path: /assets/img/gdp6.2.jpg
+  - image_path: /assets/img/gdp7.2.jpg
+  - image_path: /assets/img/gdp8.2.jpg
 
 ## Applications of Large Format 3DP and Generative Design
 
