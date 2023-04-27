@@ -7,6 +7,9 @@ header:
 gallery:
   - image_path: /assets/img/mfdfinal.jpeg
   - image_path: /assets/img/mfdinitial.jpeg
+  - image_path: /assets/img/mold.jpg
+  - image_path: /assets/img/setup.jpg
+  - image_path: /assets/img/separated.jpg
 
 ---
 # About
