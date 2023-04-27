@@ -30,10 +30,17 @@ The design for the microchannel and other relevant features is based on data col
 
 
 # Molding Process
-A solution of PDMS, a silicone polymer, and a hardener is mixed and poured into to the SLA printed molds. A vacuum is applied to release any air bubbles trapped in the solution. The filled molds are then heated and cured. After the microfluidic devices are demolded, they are bonded to a glass slide.
+A solution of PDMS, a silicone polymer, and a hardener is mixed and poured into to the SLA printed molds. A vacuum is applied to release any air bubbles trapped in the solution. The filled molds are then heated and cured. After the microfluidic devices are demolded, they are bonded to a glass slide. The demolded microfluidic device looks like this:
+![Demolded Pinched Flow Fractionation Microfluidic Device] (mold.jpg)
 
-# Video of Functioning Microfludic Device
-To be added, pending testing.
+# Part Testing
+In order to test our pinched flow fractionation device, two inlet flows were set up: one of pure water and the other with a contamination of small particles. Although the mold has three outlet holes, the width of the tubing adapters only allowed for the outer two outlet streams to be run through tubing. The setup can be seen in the image and video below:
+
+![Pinched Flow Fractionation Setup] (setup.jpg)
+[Setup Video] (https://youtube.com/shorts/iuPDcyEqd0U?feature=share)
+
+The two outlet streams were collected and observed. In the picture below the rightmost tubes are cloudier than than the column second to the right, indicating a successfull separation after mixing.
+![Separated Outlet Streams] (separated.jpg)
 
 # Sources
 1. Anal. Chem. 2004, 76, 18, 5465–5471
